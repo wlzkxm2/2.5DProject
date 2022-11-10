@@ -1,0 +1,4 @@
+repository "2.5DProject@digyu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
